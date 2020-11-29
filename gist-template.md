@@ -1,6 +1,6 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+Hello this regex (regular expression) tutorial is going to cover the following expression `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Summary
 
