@@ -58,7 +58,7 @@ of `[a-z0-9_\.-]` is matching any letter a-z and is case sensitive and we are al
 minus sign and period symbols. We are also using `[\da-z\.-]` here we are matching a single number in the range of 0-9 and any character
 a-z and is case sensitive as well along with the period and minus symbols. Lastly we are using `[a-z\.]` to match any character a-a again
 case sensitive along with the period symbol. You can read more about Bracket Expressions at the following link
-[All about Bracket Expression in Regex](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#:~:text=A%20bracket%20expression%20(an%20expression,contained%20in%20the%20bracket%20expression.)
+[All about Bracket Expression in Regex](https://www.regular-expressions.info/posixbrackets.html)
 
 ### Greedy and Lazy Matching
 
